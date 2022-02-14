@@ -16,10 +16,9 @@ What are the main factors that affect housing prices?
 Improvements are encouraged.}
 ## Technologies Used
 {Python Programming, 
-Libraries: Numpy & Pandas.}
+Libraries: Numpy, seaborn, matplotlib, sklearn, scipy, statsmodel & Pandas.}
 
 ## Support and contact details
-
+joshkibbz@gmail.com
 ### License
 MIT License
-# factors-affecting-house-prices
